@@ -1,1 +1,1 @@
-# StuDebt-Free-Website
+# StuDebt-Free Website
